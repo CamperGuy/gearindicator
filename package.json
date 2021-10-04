@@ -1,0 +1,23 @@
+{
+  "name": "gearindicator",
+  "version": "1.0.0",
+  "description": "Gear Indicator Prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamperGuy/gearindicator.git"
+  },
+  "author": "Joel Helbling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamperGuy/gearindicator/issues"
+  },
+  "homepage": "https://github.com/CamperGuy/gearindicator#readme",
+  "dependencies": {
+    "jest": "^27.2.4",
+    "window": "^4.2.7"
+  }
+}
